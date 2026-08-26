@@ -132,8 +132,10 @@ Run the notebook from top to bottom to reproduce the complete analysis.
 video Link:[https://drive.google.com/file/d/1Ns5952mXY6R510vaEijYU2MCueZoJdcq/view?usp=sharing]
 
 ## Sample output 
+![output](Output.png)
 ![output](Output1.png)
 ![output](Output2.png)
+![output](Output3.png)
 ## 📚 Learning Outcomes
 
 This project demonstrates practical skills in:
