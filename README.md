@@ -156,4 +156,3 @@ This project demonstrates practical skills in:
 
 ---
 
-⭐ Built to demonstrate practical data-analysis skills using Python.
