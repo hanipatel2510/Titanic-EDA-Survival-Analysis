@@ -128,6 +128,12 @@ Make sure `titanic.csv` is located beside the notebook.
 
 Run the notebook from top to bottom to reproduce the complete analysis.
 
+## Video Demonstration
+video Link:[https://drive.google.com/file/d/1Ns5952mXY6R510vaEijYU2MCueZoJdcq/view?usp=sharing]
+
+## Sample output 
+![output](Output1.png)
+![output](Output2.png)
 ## 📚 Learning Outcomes
 
 This project demonstrates practical skills in:
