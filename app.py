@@ -451,26 +451,6 @@ plt.tight_layout()
 st.pyplot(fig)
 plt.close(fig)
 
-st.subheader("Pairwise Relationships")
-
-pair_data = df[
-    ["Survived", "Age", "Fare", "Pclass"]
-]
-
-g = sns.pairplot(
-    pair_data,
-    hue="Survived",
-    palette=["red", "green"],
-    diag_kind="kde"
-)
-
-g.fig.suptitle(
-    "Pairwise Relationships Between Features",
-    y=1.02
-)
-
-st.pyplot(g.fig)
-plt.close("all")
 
 st.subheader(
     "Survival Rate by Age Group, Gender, and Class"
